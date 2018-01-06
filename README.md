@@ -18,7 +18,8 @@ Published in: SFB 649 Discussion Paper 2017-028
 
 JEL classification: M10, C32, C55.
 
-Available at: http://sfb649.wiwi.hu-berlin.de/papers/pdf/SFB649DP2017-028.pdf
+Available at: [http://sfb649.wiwi.hu-berlin.de/papers/pdf/SFB649DP2017-028.pdf](http://sfb649.wiwi.hu-berlin.de/papers/pdf/SFB649DP2017-028.pdf)
+<http://sfb649.wiwi.hu-berlin.de/papers/pdf/SFB649DP2017-028.pdf>
 
 ```
 
