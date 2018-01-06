@@ -10,7 +10,7 @@ Name of QuantLet : DMFchord
 
 Published in : DMF - Drittmittelforschung
 
-Description: 'Plots a chord diagram of the number of co-authorships by researchers aggregated w.r.t. HU-Units'
+Description: 'Plots a chord diagram of the number of co-authorships by researchers aggregated w.r.t. university Units'
 
 Keywords : 'plot, chord, adjacency matrix, dependence, visualization, data visualization, analysis, discriptive methods, graphical representation, discriptive, descriptive-statistics'
 
