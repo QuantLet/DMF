@@ -1,0 +1,19 @@
+Name of QuantLet : DMFpubProPubVol
+
+Published in : DMF - Drittmittelforschung
+
+Description: 'Plots a time series plot, where each line represents the mean citations or publications of researchers per university Unit and year.'
+
+Keywords : 'plot, line, line plot, time series, visualization, data visualization, analysis, discriptive methods, graphical representation, discriptive, descriptive-statistics'
+
+See also : 'DMFsankey, DMFchord, DMFtsmtpe'
+
+Author : Alona Zharova
+
+Submitted : Sat, Jan 06 2018 by Marius Sterling, Alona Zharova
+
+Datafile : 'DMFpubProPubVol_cit.csv and DMFpubProPubVol_pub.csv'
+
+Input: 'Rdata files containing a list where elements represent the time series for a university Unit'
+
+Output: 'Time series plot'
