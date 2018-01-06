@@ -14,7 +14,7 @@ Description: 'Plots the TPE per researcher for each university Unit (also inflat
 
 Keywords : 'plot, trellis, trellis graph, time series, visualization, data visualization, analysis, discriptive methods, graphical representation, discriptive, descriptive-statistics'
 
-See also : 'DMFchord, DMFtsmtpe, DMFpubProPubVol'
+See also : 'DMFchord, DMFsankey, DMFpubProPubVol'
 
 Author : Alona Zharova
 
@@ -22,7 +22,7 @@ Submitted : Sat, Jan 06 2018 by Marius Sterling, Alona Zharova
 
 Datafile : 'DMFtsmtpe.csv'
 
-Input: '2 files of same size with each 4 columns (year, huUnit, Expenses, Expenses relative to number of researcher)'
+Input: '2 files of same size with each 4 columns (year, Unit, Expenses, Expenses relative to number of researcher)'
 
 Output: 'Trellis graph of time series plots'
 ```
