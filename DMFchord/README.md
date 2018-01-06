@@ -14,7 +14,7 @@ Description: 'Plots a chord-diagram of the number of co-authorships by researche
 
 Keywords : 'plot, chord, adjacency matrix, dependence, visualization, data visualization, analysis, discriptive methods, graphical representation, discriptive, descriptive-statistics'
 
-See also : 'DMFsankey, DMFvarx, DMFtsmtpe'
+See also : 'DMFsankey, DMFvarx, DMFtsmtpe, DMFpubProPubVol'
 
 Author : Alona Zharova
 
@@ -22,7 +22,7 @@ Submitted : Sat, Jan 06 2018 by Marius Sterling, Alona Zharova
 
 Datafile : 'DMFchord.csv - The data set contains the adjacency matrix'
 
-Input: a (n x n)-matrix with the number of co-authorships, additionally a matrix specifying the colors
+Input: 'a (n x n)-matrix with the number of co-authorships, additionally a matrix specifying the colors'
 
 Output: 'Boxplots for age and ranking scores of HB, RP and GS for Top-458 scientists within each ranking system for December 2015. The red lines denote the median, whereas the dotted lines introduce the mean.'
 ```

@@ -1,0 +1,258 @@
+"From","descr","Freq2"
+"Law","Agricultural and Biological Sciences",6
+"Law","Arts and Humanities",14
+"Law","Business, Management and Accounting",7
+"Law","Economics, Econometrics and Finance",27
+"Law","Neuroscience",2
+"Law","Social Sciences",147
+"Law","Chemical Engineering",1
+"Law","Computer Science",1
+"Law","Engineering",2
+"Law","Medicine",3
+"Econ","Multidisciplinary",1
+"Econ","Agricultural and Biological Sciences",3
+"Econ","Arts and Humanities",12
+"Econ","Business, Management and Accounting",109
+"Econ","Computer Science",26
+"Econ","Economics, Econometrics and Finance",421
+"Econ","Energy",2
+"Econ","Engineering",9
+"Econ","Mathematics",117
+"Econ","Psychology",8
+"Econ","Social Sciences",51
+"Econ","Decision Sciences",34
+"Econ","Environmental Science",4
+"Econ","Medicine",1
+"Bio","Multidisciplinary",194
+"Bio","Agricultural and Biological Sciences",950
+"Bio","Arts and Humanities",4
+"Bio","Biochemistry, Genetics and Molecular Biology",1496
+"Bio","Chemical Engineering",29
+"Bio","Chemistry",334
+"Bio","Computer Science",33
+"Bio","Earth and Planetary Sciences",62
+"Bio","Energy",2
+"Bio","Engineering",13
+"Bio","Environmental Science",136
+"Bio","Immunology and Microbiology",240
+"Bio","Materials Science",46
+"Bio","Medicine",257
+"Bio","Neuroscience",339
+"Bio","Pharmacology, Toxicology and Pharmaceutics",18
+"Bio","Physics and Astronomy",65
+"Bio","Psychology",4
+"Bio","Social Sciences",7
+"Bio","Veterinary",1
+"Bio","Business, Management and Accounting",1
+"Bio","Economics, Econometrics and Finance",1
+"Bio","Mathematics",10
+"Bio","Nursing",1
+"Phil2","Agricultural and Biological Sciences",6
+"Phil2","Arts and Humanities",291
+"Phil2","Biochemistry, Genetics and Molecular Biology",4
+"Phil2","Business, Management and Accounting",1
+"Phil2","Computer Science",15
+"Phil2","Medicine",10
+"Phil2","Neuroscience",4
+"Phil2","Psychology",7
+"Phil2","Social Sciences",63
+"Phil2","Physics and Astronomy",8
+"Phil2","Health Professions",5
+"Agri","Multidisciplinary",33
+"Agri","Agricultural and Biological Sciences",1215
+"Agri","Biochemistry, Genetics and Molecular Biology",144
+"Agri","Business, Management and Accounting",14
+"Agri","Chemistry",8
+"Agri","Computer Science",37
+"Agri","Earth and Planetary Sciences",38
+"Agri","Economics, Econometrics and Finance",60
+"Agri","Energy",20
+"Agri","Engineering",64
+"Agri","Environmental Science",106
+"Agri","Medicine",87
+"Agri","Social Sciences",38
+"Agri","Veterinary",13
+"Agri","Arts and Humanities",3
+"Agri","Chemical Engineering",4
+"Agri","Immunology and Microbiology",21
+"Agri","Materials Science",2
+"Agri","Mathematics",8
+"Agri","Physics and Astronomy",2
+"Agri","Psychology",2
+"Phys","Multidisciplinary",104
+"Phys","Agricultural and Biological Sciences",29
+"Phys","Biochemistry, Genetics and Molecular Biology",95
+"Phys","Chemical Engineering",77
+"Phys","Chemistry",526
+"Phys","Computer Science",173
+"Phys","Earth and Planetary Sciences",160
+"Phys","Energy",32
+"Phys","Engineering",859
+"Phys","Environmental Science",4
+"Phys","Immunology and Microbiology",3
+"Phys","Materials Science",709
+"Phys","Mathematics",203
+"Phys","Medicine",69
+"Phys","Neuroscience",27
+"Phys","Pharmacology, Toxicology and Pharmaceutics",4
+"Phys","Physics and Astronomy",5726
+"Phys","Psychology",7
+"Phys","Arts and Humanities",1
+"Phys","Decision Sciences",1
+"Phys","Social Sciences",2
+"Phys","Health Professions",3
+"Chem","Multidisciplinary",16
+"Chem","Agricultural and Biological Sciences",18
+"Chem","Biochemistry, Genetics and Molecular Biology",308
+"Chem","Business, Management and Accounting",1
+"Chem","Chemical Engineering",227
+"Chem","Chemistry",2377
+"Chem","Computer Science",6
+"Chem","Earth and Planetary Sciences",158
+"Chem","Energy",7
+"Chem","Engineering",71
+"Chem","Environmental Science",6
+"Chem","Materials Science",377
+"Chem","Medicine",69
+"Chem","Neuroscience",2
+"Chem","Pharmacology, Toxicology and Pharmaceutics",21
+"Chem","Physics and Astronomy",489
+"Chem","Dentistry",4
+"Chem","Decision Sciences",2
+"Chem","Immunology and Microbiology",14
+"Chem","Mathematics",12
+"Chem","Social Sciences",10
+"Mat","Multidisciplinary",11
+"Mat","Business, Management and Accounting",7
+"Mat","Chemistry",4
+"Mat","Computer Science",141
+"Mat","Decision Sciences",34
+"Mat","Economics, Econometrics and Finance",26
+"Mat","Engineering",115
+"Mat","Materials Science",9
+"Mat","Mathematics",783
+"Mat","Physics and Astronomy",158
+"Mat","Social Sciences",1
+"Mat","Agricultural and Biological Sciences",4
+"Mat","Arts and Humanities",3
+"Mat","Biochemistry, Genetics and Molecular Biology",3
+"Mat","Earth and Planetary Sciences",7
+"Mat","Energy",5
+"Mat","Environmental Science",3
+"Mat","Neuroscience",5
+"Geo","Multidisciplinary",5
+"Geo","Agricultural and Biological Sciences",106
+"Geo","Arts and Humanities",2
+"Geo","Biochemistry, Genetics and Molecular Biology",6
+"Geo","Business, Management and Accounting",4
+"Geo","Chemical Engineering",5
+"Geo","Chemistry",4
+"Geo","Computer Science",54
+"Geo","Decision Sciences",8
+"Geo","Earth and Planetary Sciences",316
+"Geo","Economics, Econometrics and Finance",5
+"Geo","Engineering",52
+"Geo","Environmental Science",248
+"Geo","Mathematics",2
+"Geo","Medicine",26
+"Geo","Physics and Astronomy",8
+"Geo","Social Sciences",73
+"Geo","Energy",9
+"Geo","Immunology and Microbiology",4
+"Geo","Pharmacology, Toxicology and Pharmaceutics",8
+"Geo","Psychology",1
+"Inf","Multidisciplinary",1
+"Inf","Agricultural and Biological Sciences",17
+"Inf","Biochemistry, Genetics and Molecular Biology",72
+"Inf","Business, Management and Accounting",22
+"Inf","Computer Science",961
+"Inf","Earth and Planetary Sciences",9
+"Inf","Engineering",136
+"Inf","Environmental Science",2
+"Inf","Mathematics",85
+"Inf","Medicine",17
+"Inf","Neuroscience",9
+"Inf","Physics and Astronomy",5
+"Inf","Psychology",3
+"Inf","Health Professions",2
+"Inf","Arts and Humanities",6
+"Inf","Chemical Engineering",1
+"Inf","Chemistry",1
+"Inf","Decision Sciences",8
+"Inf","Energy",3
+"Inf","Immunology and Microbiology",2
+"Inf","Materials Science",2
+"Inf","Pharmacology, Toxicology and Pharmaceutics",1
+"Inf","Social Sciences",9
+"Psy","Multidisciplinary",3
+"Psy","Agricultural and Biological Sciences",42
+"Psy","Arts and Humanities",12
+"Psy","Biochemistry, Genetics and Molecular Biology",101
+"Psy","Business, Management and Accounting",8
+"Psy","Computer Science",11
+"Psy","Engineering",5
+"Psy","Environmental Science",1
+"Psy","Medicine",197
+"Psy","Neuroscience",199
+"Psy","Psychology",586
+"Psy","Social Sciences",46
+"Psy","Economics, Econometrics and Finance",1
+"Psy","Mathematics",3
+"Psy","Nursing",1
+"Psy","Pharmacology, Toxicology and Pharmaceutics",4
+"Psy","Health Professions",3
+"Phil1","Agricultural and Biological Sciences",2
+"Phil1","Arts and Humanities",403
+"Phil1","Biochemistry, Genetics and Molecular Biology",2
+"Phil1","Computer Science",62
+"Phil1","Economics, Econometrics and Finance",3
+"Phil1","Engineering",9
+"Phil1","Medicine",25
+"Phil1","Pharmacology, Toxicology and Pharmaceutics",10
+"Phil1","Psychology",8
+"Phil1","Social Sciences",164
+"Phil1","Business, Management and Accounting",3
+"Phil1","Earth and Planetary Sciences",11
+"Phil1","Mathematics",1
+"Phil1","Neuroscience",4
+"Edu","Agricultural and Biological Sciences",12
+"Edu","Arts and Humanities",10
+"Edu","Business, Management and Accounting",4
+"Edu","Mathematics",7
+"Edu","Medicine",270
+"Edu","Psychology",142
+"Edu","Social Sciences",215
+"Edu","Biochemistry, Genetics and Molecular Biology",51
+"Edu","Chemical Engineering",1
+"Edu","Chemistry",2
+"Edu","Engineering",3
+"Edu","Environmental Science",1
+"Edu","Immunology and Microbiology",3
+"Edu","Materials Science",2
+"Edu","Neuroscience",12
+"Edu","Veterinary",2
+"Edu","Health Professions",11
+"Theo","Arts and Humanities",259
+"Theo","Medicine",4
+"Soc","Agricultural and Biological Sciences",2
+"Soc","Arts and Humanities",18
+"Soc","Economics, Econometrics and Finance",6
+"Soc","Psychology",7
+"Soc","Social Sciences",272
+"Soc","Business, Management and Accounting",4
+"Soc","Computer Science",6
+"Soc","Environmental Science",1
+"Soc","Mathematics",3
+"Soc","Medicine",9
+"Cult","Multidisciplinary",1
+"Cult","Arts and Humanities",327
+"Cult","Biochemistry, Genetics and Molecular Biology",1
+"Cult","Economics, Econometrics and Finance",3
+"Cult","Engineering",2
+"Cult","Environmental Science",7
+"Cult","Medicine",89
+"Cult","Psychology",13
+"Cult","Social Sciences",80
+"Cult","Agricultural and Biological Sciences",7
+"Cult","Business, Management and Accounting",1
+"Cult","Decision Sciences",2
